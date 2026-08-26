@@ -1,14 +1,21 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        StringBuilder ans = new StringBuilder();
-        int j = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (j < spaces.length && i == spaces[j]) {
-                ans.append(' ');
-                j++;
+        int n=s.length();
+        int m=spaces.length;
+        char[] output = new char[n+m];
+        int space=0;
+        int ind=0;
+        int j=0;
+        for(int i=0;i<n+m;i++){
+            if(space<m && spaces[space]==j){
+                output[i] = ' ';
+                space++;
             }
-            ans.append(s.charAt(i));
+            else{
+                output[i] = s.charAt(j);
+                j++;
+            } 
         }
-        return ans.toString();
+		return new String(output);
     }
 }
