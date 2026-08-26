@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
