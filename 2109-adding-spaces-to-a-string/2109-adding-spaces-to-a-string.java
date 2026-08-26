@@ -16,6 +16,6 @@ class Solution {
                 j++;
             } 
         }
-		return new String(output);
+		return new String (output);
     }
 }
