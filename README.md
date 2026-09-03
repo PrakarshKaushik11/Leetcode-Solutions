@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2109-adding-spaces-to-a-string](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Counting
