@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
