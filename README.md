@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
