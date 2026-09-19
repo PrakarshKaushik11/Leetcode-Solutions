@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2109-adding-spaces-to-a-string](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
