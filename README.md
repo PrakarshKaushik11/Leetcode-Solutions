@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
