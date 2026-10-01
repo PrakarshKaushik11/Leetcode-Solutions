@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -134,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Bucket Sort
 |  |
