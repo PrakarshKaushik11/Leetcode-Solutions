@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0164-maximum-gap) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrakarshKaushik11/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
